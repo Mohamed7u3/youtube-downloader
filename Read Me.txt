@@ -1,0 +1,9 @@
+Hello 
+my name is mohamed sobhi,Iam studing in faculty of navigation science and space technology in Bin seuf university.
+This project how to download video or playlist or audio fro youtube and doing this project in exe file to use this conainer in virtual machine.
+ 
+install libraries with "pip install +library name "
+
+if you have any questions contact with me 
+
+my linkedin profile("https://www.linkedin.com/in/mohamed-sobhi-ba1554185")
